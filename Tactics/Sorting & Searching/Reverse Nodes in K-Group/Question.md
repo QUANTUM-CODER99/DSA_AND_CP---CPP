@@ -7,14 +7,20 @@ You may not alter the values in the list's nodes, only nodes themselves may be c
  
 
 Example 1:
-![I1](E1.png)
+
 Input: head = [1,2,3,4,5], k = 2
+
 Output: [2,1,4,3,5]
 
+![I1](E1.png)
+
 Example 2:
-![I2](E2.png)
+
 Input: head = [1,2,3,4,5], k = 3
+
 Output: [3,2,1,4,5]
+
+![I2](E2.png)
  
 
 Constraints:
